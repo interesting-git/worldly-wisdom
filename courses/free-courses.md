@@ -1,6 +1,11 @@
 # Free Courses
 The aim here is to compile a list of free courses from a variety of sources to aid in learning numerous topics.
 
+### General Resources
+* #### MIT OpenCourseWare: https://youtube.com/c/mitocw
+* #### Stanford Lectures: https://youtube.com/c/stanford
+* #### Coursera: https://www.coursera.org
+
 ### Engineering
 * Intro to Chemical Engineering (Stanford): https://youtube.com/playlist?list=PLD2D34BCA5468DD9A
 
