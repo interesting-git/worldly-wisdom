@@ -1,4 +1,4 @@
-# Habits
+# Feynman Learning Technique
 #### TL;DR: There is a big difference between knowing the name of something and understanding it.
 
 ## Description
