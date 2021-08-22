@@ -1,6 +1,7 @@
 # Compound Interest
-#### TL;DR: Small percentage gains, when added on to prior gains, result in exponential growth
-
-##### Link to my substack article: 
+#### TL;DR: Compound interest is the addition of interest to the principal of a loan or deposit- it is interest earned on the interest previously earned. This process, over time, results in astronomical growth.
 
 ## Description
+
+## Further reading
+#### Link to article: [Mental Model Lollapalooza: Compound Interest](https://david-r-phillips.medium.com/mental-model-lollapalooza-compound-interest-10f62acba5d2)
