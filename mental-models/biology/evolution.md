@@ -11,9 +11,9 @@ A lot of things in the world, both natural and human, can be thought of as compl
 When in a position to choose between different designs for a given system, consider the ability of the design to iterate and improve its fitness for the task at hand. Consider the two major competing economic designs of the 20th century: capitalism and communism. As the economy is too complex for anyone to manage, communism does not allow for mutations within the economy at anywhere close to the speed that capitalism allows. This is vital not just for innovation, but also for reacting quickly to events (e.g. failed crops).
 
 What does this mean in practice?
-• Variation
-• Competition
-• Selection
+* Variation
+* Competition
+* Selection
 
 The growing discipline of product analytics tackles this extremely well from a technology perspective. Rapidly testing hypotheses by splitting users into two or more product variants and implementing the features that maximise revenue.
 
