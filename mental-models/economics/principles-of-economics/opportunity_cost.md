@@ -19,5 +19,8 @@ Had we read the cooking book, we may have discovered a passion for cooking we ne
 
 The best we can do is to take time to understand the different opportunity costs at play to minimise the risk that we’re missing a major one (especially by considering [second order effects](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/economics/second_order_effects.md). Just being aware of the concept of opportunity costs is a major step in the right direction to making more rational decisions.
 
+## Application
+Ask yourself *"what else could I be spending this time/money/resource on?"* when committing to something.
+
 ## Further reading
 ##### Link to article: [Mental Model Lollapalooza: Principles of Economics](https://david-r-phillips.medium.com/mental-model-lollapalooza-principles-of-economics-e5b797530f44)
