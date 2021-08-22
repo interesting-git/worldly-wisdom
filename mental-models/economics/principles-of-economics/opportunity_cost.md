@@ -1,5 +1,6 @@
 # Opportunity Cost
-#### TL;DR: The cost of something is what you give up to acquire it
+#### TL;DR: The cost of something is what you give up to acquire it.
+> *"Opportunity cost is a huge filter in life. If you've got two suitors who are really eager to have you and one is way the hell better than the other, you do not have to spend much time with the other. And that's the way we filter out buying opportunities."* - ***Charlie Munger***
 
 ## Description
 When making trade-off decisions due to [scarce resources](https://github.com/interesting-git/worldly-wisdom/edit/main/mental-models/economics/principles-of-economics/scarcity.md), it’s not always obvious what the full cost of our decision is.
