@@ -1,4 +1,4 @@
-# Influence
+# Influence & Persuasion
 #### TL;DR: Influencing the decisions of other people relies largely on a subset of [our cognitive biases](https://github.com/interesting-git/worldly-wisdom/edit/main/mental-models/psychology/biases.md). Liking, reciprocation, social proof, authority, scarcity, consistency, and unity.
 
 ## Description
