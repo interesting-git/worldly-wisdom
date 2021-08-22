@@ -5,3 +5,9 @@
 
 ## Description
 "No wise pilot, no matter how great his talent and experience, fails to use his checklist." - Charlie Munger
+
+## Applications
+
+## Further reading
+##### My substack article: 
+##### Book recommendation: The Checklist Manifesto
