@@ -1,6 +1,5 @@
 # Scarcity
-#### TL;DR: The cost of something is what you give up to acquire it.
-> *"Opportunity cost is a huge filter in life. If you've got two suitors who are really eager to have you and one is way the hell better than the other, you do not have to spend much time with the other. And that's the way we filter out buying opportunities."* - ***Charlie Munger***
+#### TL;DR: As we don't have infinite resources, we have to make trade-off decisions.
 
 ## Description
 People need to make trade-off decisions based on the fact that most resources are limited, including money and time.
