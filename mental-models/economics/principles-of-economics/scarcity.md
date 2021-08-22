@@ -13,7 +13,7 @@ His resources, in this case, his money, are scarce, and as a result, he needs to
 **How should he decide between the uses for his money?** (Answer: [Opportunity cost](https://github.com/interesting-git/worldly-wisdom/new/main/mental-models/economics/principles-of-economics/opportunity_cost.md))
 
 ## Application
-In [Influence & Persuasion](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/psychology/influence_and_persuasion.md) we discussed how artificial (or real) scarcity is employed to encourage people to make snap decisions. When being sold something, ask yourself: ***is this real scarcity?***
+In [Influence & Persuasion](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/psychology/influence_and_persuasion.md) we discussed how artificial (or real) scarcity is employed to encourage people to make snap decisions. When being sold something, ask yourself: ***is this real scarcity? Will my life be meaningfully worse if I don't make this purchase?***
 
 ## Further reading
 ##### Link to article: [Mental Model Lollapalooza: Principles of Economics](https://david-r-phillips.medium.com/mental-model-lollapalooza-principles-of-economics-e5b797530f44)
