@@ -1,4 +1,4 @@
-Through [influence and persuasion](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/psychology/influence_and_persuasion.md) we learn how to put forward our propositions to maximise the chances of a positive outcome.
+Through [influence and persuasion](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/psychology/influence_and_persuasion.md) we learn how to put forward our propositions in a way that maximises the chances of a positive outcome.
 
 Other people, however, will also be doing the same thing to a greater or lesser extent back at us. Our [cognitive biases](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/psychology/biases.md) can lead us to make sub-optimal decisions if we don't account for them.
 
