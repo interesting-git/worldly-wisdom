@@ -1,6 +1,6 @@
-Through influence and persuasion, we learn how to put forward our propositions to maximise the chances of a positive outcome.
+Through [influence and persuasion](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/psychology/influence_and_persuasion.md) we learn how to put forward our propositions to maximise the chances of a positive outcome.
 
-Other people, however, will also be doing the same thing to a greater or lesser extent back at us. Our cognitive biases can lead us to make sub-optimal decisions if we don't account for them.
+Other people, however, will also be doing the same thing to a greater or lesser extent back at us. Our [cognitive biases](https://github.com/interesting-git/worldly-wisdom/blob/main/mental-models/psychology/biases.md) can lead us to make sub-optimal decisions if we don't account for them.
 
 Similarly, understanding the most common logical fallacies can help us better understand whether a seemingly logical argument makes sense or just sounds good. Nowhere is this more important than in political discourse- whether it's analysing the statements made by our own governments, or being able to comprehend conflicting statements you see on twitter.
 
