@@ -40,5 +40,5 @@ People are more easily influenced by someone local (geographically/culturally). 
 
 
 ## Further reading
-##### Substack article: 
+##### [My Medium article]( https://link.medium.com/Cjz9ge3ijjb)
 ##### Book recommendation: Influence, Robert Cialdini
